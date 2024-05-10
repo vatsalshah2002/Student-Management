@@ -1,4 +1,4 @@
 # PHP-Student-management
-PHP student management tutorial
+Student management system in php-mysql
 
-Free to use for personal or commercial use
+
